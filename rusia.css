@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Oswald&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    /* background-color:rgb(126, 71, 71); */
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif; 
+
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-image: url(back.jpg);
+    background-size: cover;
+}
+#back2{
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    height: 50%;
+    width: 45%;
+}
+#back3{
+    position:absolute ;
+    top: 15%;
+    left: 65%;
+    height: 70%;
+    width: 30%;
+    background-size: cover;
+}
+#exp{
+    position: absolute;
+    top: 23%;
+    left: 13%;
+    color: white;
+    font-weight: 900;
+    font-size: 120px;
+    letter-spacing: 1px;
+}
+#exp span{
+    color: red;
+}
+#r{
+    position: absolute;
+    top: 38%;
+    left: 13%;
+    color: white;
+    font-weight: 900;
+    font-size: 120px;
+    letter-spacing: 1px;
+}
+#r span{
+    color: orange;
+}
+#rus{
+    position: absolute;
+    color: white;
+    top: 63%;
+    left: 13.5%;
+    letter-spacing:.9px;
+    font-weight: 400;
+}
+#more{
+    position: absolute;
+    position: relative;
+    top: 80%;
+    left: 13.5%;
+    height: 6%;
+    width: 10%;
+    background-color: rgba(255, 255, 0, 0);
+    border: 2px solid white;
+}
+#line{
+    position: absolute;
+    top: 82.7%;
+    height:.2%;
+    width: 13.5%;
+    background-color: white;
+}
+#m{
+    position: absolute;
+    letter-spacing: 3px;
+    top: 19%;
+    left: 30% ;
+    color: white;
+}
+#mas{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    color: white;
+}
+#mas span{
+    color: rgb(6, 6, 247);
+}
+#home{
+    position: absolute;
+    left: 50%;
+    top:20px;
+    color: white;
+}
+#ab{
+    position: absolute;
+    left: 60%;
+    top:20px;
+    color: white;
+}
+#ga{
+    position: absolute;
+    left: 70%;
+    top:20px;
+    color: white;
+}
+#too{
+    position: absolute;
+    left: 80%;
+    top:20px;
+    color: white;
+}
+#co{
+    position: absolute;
+    left: 90%;
+    top:20px;
+    color: white;
+}
+#pho{
+    position: absolute;
+    top: 75%;
+    left: 65%;
+    color: rgba(255, 255, 255, 0.199);
+    font-size: 60px;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+#pho1{
+    position: absolute;
+    top: 65%;
+    left: 55%;
+    color: rgba(255, 255, 255, 0.288);
+    font-size: 60px;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+#go{
+    position: absolute;
+    top: 80.6%;
+    left: 70.5%;
+    color: white;
+}
+#line1{
+    position: absolute;
+    top: 82%;
+    height:.2%;
+    width: 13.5%;
+    background-color: white;
+    left:80% ;
+}
+#a{
+    position: absolute;
+    top: 79.8%;
+    left:94% ;
+    color: white;
+}
+#b{
+    position: absolute;
+    top: 79.8%;
+    left:78.8% ;
+    color: white;
+}
+#in{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 93%;
+    right: 2%;
+}
+#fb{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 93%;
+    right: 8%; 
+}
+#you{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 93%;
+    left: 13.5%;
+}
+#tw{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 93%;
+    right: 5%; 
+}
+#wa{
+    position: absolute;
+    color: white;
+    top: 95%;
+    left: 19%; 
+}
+#our{
+    position: absolute;
+    color: white;
+    top: 93%;
+    left: 72%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
